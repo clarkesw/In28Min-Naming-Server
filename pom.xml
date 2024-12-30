@@ -11,7 +11,7 @@
     <groupId>com.clarke.service</groupId>
     <artifactId>naming-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Naming Server</name>
+    <name>Eureka Naming Server</name>
     <description>Demo Naming Server</description>
     <properties>
         <java.version>17</java.version>
